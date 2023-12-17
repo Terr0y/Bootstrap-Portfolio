@@ -1,0 +1,97 @@
+/* Custom CSS for Bootstrap Portfolio */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff; /* Change the color on hover */
+}
+
+/* Hero Section Styles */
+#hero {
+    padding: 4rem 0;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
+
+.jumbotron img {
+    width: 150px; /* Adjust the width of the profile picture */
+}
+
+/* Work Section Styles */
+#work {
+    padding: 4rem 0;
+}
+
+.card {
+    transition: box-shadow 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.5); /* Box shadow on hover */
+}
+
+/* Skills Section Styles */
+#skills {
+    padding: 4rem 0;
+}
+
+.list-group {
+    max-width: 400px; /* Adjust the max-width of the skills list */
+    margin: auto;
+}
+
+/* About/Contact Section Styles */
+#about {
+    padding: 4rem 0;
+}
+
+/* Footer Section Styles */
+footer {
+    color: #6c757d;
+    background-color: #f8f9fa;
+    margin-top: 2rem;
+}
+
+/* Hover Effect for All Hyperlinks */
+a:hover {
+    color: #007bff;
+}
+
+/* Hover Effect for All Buttons */
+.btn:hover {
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.5);
+}
+
+.navbar-nav .nav-link:hover {
+    color: red;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;   
+  }
+
+
+   /* Custom CSS for hover effects */
+   .footer-link:hover {
+    color: #007bff; /* Change the color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
+
+.btn:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add box shadow to buttons on hover */
+}
