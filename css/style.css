@@ -1,10 +1,8 @@
-/* Custom CSS for Bootstrap Portfolio */
-
 body {
     font-family: 'Arial', sans-serif;
 }
 
-/* Navbar Styles */
+
 .navbar {
     padding: 1rem;
 }
@@ -18,10 +16,10 @@ body {
 }
 
 .navbar-nav .nav-link:hover {
-    color: #007bff; /* Change the color on hover */
+    color: #007bff; 
 }
 
-/* Hero Section Styles */
+
 #hero {
     padding: 4rem 0;
 }
@@ -31,10 +29,10 @@ body {
 }
 
 .jumbotron img {
-    width: 150px; /* Adjust the width of the profile picture */
+    width: 150px;
 }
 
-/* Work Section Styles */
+
 #work {
     padding: 4rem 0;
 }
@@ -44,37 +42,37 @@ body {
 }
 
 .card:hover {
-    box-shadow: 0 0 20px rgba(0, 123, 255, 0.5); /* Box shadow on hover */
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.5); 
 }
 
-/* Skills Section Styles */
+
 #skills {
     padding: 4rem 0;
 }
 
 .list-group {
-    max-width: 400px; /* Adjust the max-width of the skills list */
+    max-width: 400px; 
     margin: auto;
 }
 
-/* About/Contact Section Styles */
+
 #about {
     padding: 4rem 0;
 }
 
-/* Footer Section Styles */
+
 footer {
     color: #6c757d;
     background-color: #f8f9fa;
     margin-top: 2rem;
 }
 
-/* Hover Effect for All Hyperlinks */
+
 a:hover {
     color: #007bff;
 }
 
-/* Hover Effect for All Buttons */
+
 .btn:hover {
     box-shadow: 0 0 20px rgba(0, 123, 255, 0.5);
 }
@@ -86,12 +84,14 @@ a:hover {
   }
 
 
-   /* Custom CSS for hover effects */
+   
    .footer-link:hover {
-    color: #007bff; /* Change the color on hover */
-    text-decoration: underline; /* Underline on hover */
+    color: #007bff; 
+    text-decoration: underline; 
 }
 
 .btn:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add box shadow to buttons on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
 }
+
+
